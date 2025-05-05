@@ -30,8 +30,7 @@ android {
     }
 
     defaultConfig {
-        // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
-        applicationId "org.thingsboard.app"
+        applicationId "dev.falkia34.crackvision"
         minSdkVersion 24
         targetSdkVersion 33
         versionCode flutterVersionCode.toInteger()

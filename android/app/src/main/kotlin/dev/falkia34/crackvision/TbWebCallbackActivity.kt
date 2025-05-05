@@ -1,4 +1,4 @@
-package org.thingsboard.app
+package dev.falkia34.crackvision
 
 import android.app.Activity
 import android.net.Uri

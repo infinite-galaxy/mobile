@@ -1,4 +1,4 @@
-package org.thingsboard.app
+package dev.falkia34.crackvision
 
 import androidx.annotation.NonNull
 import io.flutter.embedding.android.FlutterActivity
